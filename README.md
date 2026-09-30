@@ -226,7 +226,7 @@ El script incluye protección contra múltiples instancias
 Automatización interna para uso personal. No redistribuir sin permiso.
 
 ## Autor
-user Lleixa Pegueroles
+Laia Lleixa Pegueroles
 
 ## Fecha de Creación
 27/9/2026
